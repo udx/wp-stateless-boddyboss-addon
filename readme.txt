@@ -1,12 +1,12 @@
 === WP-Stateless - BuddyBoss Platform Addon ===
-Contributors: usability_dynamics, andypotanin, ideric, maxim.peshkov, planvova, obolgun
+Contributors: usability_dynamics, andypotanin, ideric, planvova, obolgun
 Donate link: https://udx.io
-Tags: buddyboss, buddyboss platform, google, google cloud, google cloud storage, cdn, uploads, media, stateless, backup
+Tags: buddyboss, buddyboss addon extension, google cloud storage, stateless, wp-stateless
 License: GPLv2 or later
 Requires PHP: 8.0
 Requires at least: 5.0
-Tested up to: 6.4.2
-Stable tag: 0.0.1
+Tested up to: 6.7.1
+Stable tag: 0.0.2
 
 Provides compatibility between the BuddyBoss Platform and the WP-Stateless plugin.
 
@@ -44,7 +44,9 @@ To ensure new releases cause as little disruption as possible, we rely on early 
 
 == Changelog ==
 
-= 0.0.1 =
+= 0.0.2 =
+* Updated release.
 
+= 0.0.1 =
 * Initial public release.
 
